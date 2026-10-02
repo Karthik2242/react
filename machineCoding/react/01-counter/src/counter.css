@@ -1,0 +1,17 @@
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    gap : 20px;
+    align-items: center;
+    margin-top: 50px;
+
+}
+.count{
+    font-size: large;
+    font-weight: bold;
+}
+.buttons{
+    display: flex;
+    gap : 15px
+}
